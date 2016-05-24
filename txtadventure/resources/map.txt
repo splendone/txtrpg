@@ -1,0 +1,8 @@
+			LeaveCaveRoom	
+	MoneyRoom	EmptyCavePath	GiantSpiderRoom	EmptyCavePath
+		EmptyCavePath		
+		EmptyCavePath		
+GiantSpiderRoom	EmptyCavePath	StartingRoom	EmptyCavePath	FindDaggerRoom
+		MoneyRoom		
+		EmptyCavePath	OgreRoom	MoneyRoom		
+		SnakePitRoom		
